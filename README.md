@@ -62,13 +62,17 @@ Calculation:
 
 Open circuit characteristics
 ![WhatsApp Image 2025-12-05 at 12 10 36_ef9f13a7](https://github.com/user-attachments/assets/3476bea5-7e6d-4e9b-ac6c-af53bc4e2f88)
+
 <img width="1024" height="814" alt="Screenshot 2025-12-05 121353" src="https://github.com/user-attachments/assets/4713671f-de71-4441-a9a2-9a5fe02868d8" />
+
 ![WhatsApp Image 2025-12-05 at 12 16 08_37035311](https://github.com/user-attachments/assets/b6974471-514d-447e-93a1-dee0bdb55efb)
 
   
 Load Characteristics:
 ![WhatsApp Image 2025-12-05 at 12 17 01_d86363d6](https://github.com/user-attachments/assets/113a53a9-3ad5-4126-8ddb-899047d79fbf)
+
 <img width="1284" height="915" alt="Screenshot 2025-12-05 121751" src="https://github.com/user-attachments/assets/9c70ffb2-9dee-4570-805a-11e0b8863e08" />
+
 ![WhatsApp Image 2025-12-05 at 12 19 27_dcaf97ea](https://github.com/user-attachments/assets/58140ea3-17e8-49c8-9936-cadee89ae626)
 
 Result:
